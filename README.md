@@ -11,3 +11,7 @@ puts 'The best way to log and share programmers knowledge.'
 - Item1
 - Item2
 - Item3
+
+## リンクの記述方法
+
+[参考サイト] (https://www.markdownguide.org/basic-syntax/#links)
