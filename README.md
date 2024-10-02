@@ -14,7 +14,7 @@ puts 'The best way to log and share programmers knowledge.'
 
 ## リンクの記述方法
 
-[参考サイト] (https://www.markdownguide.org/basic-syntax/#links)
+[参考サイト](https://www.markdownguide.org/basic-syntax/#links)
 
 ## URL と Email の記述方法
 
