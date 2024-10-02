@@ -2,8 +2,14 @@
 
 こんにちは、GitHub!
 
+## コードブロックの作成
+
 ```ruby:markdown.rb
 puts 'The best way to log and share programmers knowledge.'
+```
+
+```javascript:markdown.js
+console.log("The best way to log and share programmers knowledge.");
 ```
 
 ## List の記載方法
