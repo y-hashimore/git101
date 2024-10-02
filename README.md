@@ -19,4 +19,5 @@ puts 'The best way to log and share programmers knowledge.'
 ## URL と Email の記述方法
 
 <https://www.markdownguide.org>
+
 <fake@example.com>
