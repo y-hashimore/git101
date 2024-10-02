@@ -14,9 +14,17 @@ console.log("The best way to log and share programmers knowledge.");
 
 ## List の記載方法
 
+### 順序なしリスト
+
 - Item1
 - Item2
 - Item3
+
+### 順序つきリスト
+
+1. No.1
+2. No2
+3. No3
 
 ## リンクの記述方法
 
